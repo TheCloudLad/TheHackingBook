@@ -4,9 +4,9 @@
 
 
 <h2 align="left">Connect with me:</h3>
-<h2 align="left">
+<h3 align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"></img> My Telegram https://t.me/Cloud_Lad
-</h2>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
