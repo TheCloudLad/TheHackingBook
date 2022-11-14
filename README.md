@@ -5,7 +5,7 @@
 
 <h2 align="left">Connect with me:</h3>
 <h2 align="left">
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"></img>My Telegram https://t.me/Cloud_Lad
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"></img> My Telegram https://t.me/Cloud_Lad
 </h2>
 
 <h3 align="left">Languages and Tools:</h3>
